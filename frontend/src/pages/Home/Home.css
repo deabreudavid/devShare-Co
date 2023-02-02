@@ -1,0 +1,24 @@
+.homePresentation{
+    height:15em;
+    width:15em;
+    min-height: 100vh;
+}
+.imgPresentation{
+    height: 15em;
+    width: 15em;
+}
+.textPresentation{
+    font-size: ;
+}
+/* .Intro{
+    min-height: 100vh;
+} */
+.presentationLogo{
+    height: 15em;
+    width:15em;
+    align-items: flex-end;
+    
+}
+img.presentationLogo{
+    align-items: flex-end;
+}
