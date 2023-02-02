@@ -40,6 +40,7 @@ function Login() {
         </div>
         <button type="submit">Submit</button>
       </form>
+      <button type="submit">Register</button>
     </div>
   );
 }
