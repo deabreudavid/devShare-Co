@@ -1,7 +1,6 @@
 * {
   margin: 0;
   padding: 0;
-  
 }
 
 footer {
@@ -11,7 +10,6 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
-  
 }
 
 footer p {
@@ -25,7 +23,5 @@ footer p {
   footer p {
     padding: 2em;
     font-size: 17px;
-    
   }
-
 }

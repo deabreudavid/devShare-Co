@@ -1,0 +1,44 @@
+form.formBody {
+  height: 100vh;
+}
+
+.contactBody {
+  height: 100vh;
+}
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.contact-form label {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+.contact-form textarea {
+  height: 150px;
+}
+
+.contact-form button[type="submit"] {
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: white;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+}
+
+.contact-form button[type="submit"]:hover {
+  background-color: #3e8e41;
+}
